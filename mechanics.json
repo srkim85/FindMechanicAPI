@@ -1,0 +1,71 @@
+{
+  "mechanics": [
+    {
+      "mechanicName": "Marko Jovic",
+      "phoneNumber": "064/326-1475",
+      "cityName": "Despotovac",
+      "country": "Serbia",
+      "position": {
+        "lat": 44.0947626,
+        "lng": 21.4197348
+      },
+      "id": 17806751
+    },
+    {
+      "mechanicName": "Jovan Petrovic",
+      "phoneNumber": "064/324-1475",
+      "cityName": "Zrenjanin",
+      "country": "Serbia",
+      "position": {
+        "lat": 45.3605015,
+        "lng": 20.2936656
+      },
+      "id": 17806752
+    },
+    {
+      "mechanicName": "Nenad Stajic",
+      "phoneNumber": "064/126-1475",
+      "cityName": "Vranje",
+      "country": "Serbia",
+      "position": {
+        "lat": 42.5568038,
+        "lng": 21.8192077
+      },
+      "id": 17806753
+    },
+
+    {
+      "mechanicName": "Petar Ninkovic",
+      "cityName": "Prijepolje",
+      "phoneNumber": "064/126-1476",
+      "country": "Serbia",
+      "position": {
+        "lat": 43.3895354,
+        "lng": 19.5989864
+      },
+      "id": 17806755
+    },
+    {
+      "mechanicName": "Sloba Perovic",
+      "cityName": "Pozarevac",
+      "phoneNumber": "064/126-1412",
+      "country": "Serbia",
+      "position": {
+        "lat": 44.6173335,
+        "lng": 21.1205285
+      },
+      "id": 17806734
+    },
+    {
+      "mechanicName": "Nikola Peric",
+      "cityName": "Krusevac",
+      "phoneNumber": "063/126-199",
+      "country": "Serbia",
+      "position": {
+        "lat": 43.5718161,
+        "lng": 21.3042656
+      },
+      "id": 17806732
+    }
+  ]
+}
